@@ -1,2 +1,2 @@
 # HTTP-5112-RNA
-Web Development Lab 1 (Database &amp; C#)
+Repo to store files from HTTP-5112-RNA
